@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Build test OpenWrt
+name: Build test x86 OpenWrt
 
 on:
   repository_dispatch:
