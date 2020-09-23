@@ -19,8 +19,8 @@ on:
       - main
     paths:
       - 'x86full.config'
-  schedule:
-    - cron: 0 20 * * 5
+#  schedule:
+#    - cron: 0 20 * * 5
 #  watch:
 #    types: started
 
