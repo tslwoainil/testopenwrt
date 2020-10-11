@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 
-name: Lean_Docker_LEDE_N1
+name: dockern14.yml
 
 on:
   repository_dispatch:
