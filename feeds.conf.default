@@ -9,4 +9,8 @@ src-git sirpdboy-package https://github.com/siropboy/sirpdboy-package
 #src-git management https://github.com/openwrt-management/packages.git
 #src-git oldpackages http://git.openwrt.org/packages.git
 #src-link custom /usr/src/openwrt/custom-feed
+src-git kenzo https://github.com/kenzok8/openwrt-packages
+src-git small https://github.com/kenzok8/small
+src-git lienol https://github.com/Lienol/openwrt-package
+src-git liuran001_packages https://github.com/liuran001/openwrt-packages
 #src-git helloworld https://github.com/fw876/helloworld
